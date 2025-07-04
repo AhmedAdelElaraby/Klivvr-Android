@@ -94,6 +94,8 @@ dependencies {
 
     implementation(libs.serialization.json)
 
+    implementation("io.coil-kt:coil-compose:2.5.0")
+    implementation("androidx.compose.foundation:foundation:1.8.3")
 
 
 
